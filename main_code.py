@@ -24,7 +24,7 @@ def lcd_show(line1="", line2=""):
 # 1. CONFIGURATION
 # ===========================
 MODEL_PATH = "model"
-MODEL_BIN = "brain_model.bin"  # <--- Loads your existing trained brain
+MODEL_BIN = "brain_model.ftz"  # <--- Loads your existing trained brain
 PERSONAL_FILE = "personal_memory.json"
 SAMPLE_RATE = 44100
 INPUT_DEVICE = 1
