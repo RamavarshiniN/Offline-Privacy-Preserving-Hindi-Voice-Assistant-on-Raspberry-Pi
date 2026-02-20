@@ -1,0 +1,569 @@
+# ================= FAN ON =================
+__label__fan_on फैन ऑन
+__label__fan_on फैन चालू
+__label__fan_on फैन जलाओ
+__label__fan_on फैन स्टार्ट
+__label__fan_on फैन चलाओ
+__label__fan_on फैन लगाओ
+__label__fan_on पंखा ऑन
+__label__fan_on पंखा चालू
+__label__fan_on पंखा जलाओ
+__label__fan_on पंखा स्टार्ट
+__label__fan_on पंखा चलाओ
+__label__fan_on पंखा लगाओ
+__label__fan_on हवा ऑन
+__label__fan_on हवा चालू
+__label__fan_on हवा जलाओ
+__label__fan_on हवा स्टार्ट
+__label__fan_on हवा चलाओ
+__label__fan_on हवा लगाओ
+__label__fan_on कूलर ऑन
+__label__fan_on कूलर चालू
+__label__fan_on कूलर जलाओ
+__label__fan_on कूलर स्टार्ट
+__label__fan_on कूलर चलाओ
+__label__fan_on कूलर लगाओ
+__label__fan_on एसी ऑन
+__label__fan_on एसी चालू
+__label__fan_on एसी जलाओ
+__label__fan_on एसी स्टार्ट
+__label__fan_on एसी चलाओ
+__label__fan_on एसी लगाओ
+__label__fan_on फरहान ऑन
+__label__fan_on फरहान चालू
+__label__fan_on फरहान जलाओ
+__label__fan_on फरहान स्टार्ट
+__label__fan_on फरहान चलाओ
+__label__fan_on फरहान लगाओ
+__label__fan_on फैन चालू करो
+__label__fan_on पंखा चला दो
+__label__fan_on गर्मी लग रही है फैन ऑन करो
+__label__fan_on स्विच ऑन द फैन
+__label__fan_on हवा चाहिए पंखा चलाओ
+__label__fan_on फैन चला दे यार
+__label__fan_on प्लीज फैन ऑन
+__label__fan_on पंखा ऑन करना
+__label__fan_on फेन ऑन करो
+__label__fan_on पेन ऑन करो
+__label__fan_on वैन ऑन करो
+__label__fan_on फन ऑन करो
+__label__fan_on पंखा चलाओ
+__label__fan_on एयर चाहिए
+__label__fan_on स्टार्ट द फैन
+__label__fan_on टर्न ऑन फैन
+__label__fan_on भाई फैन ऑन कर
+__label__fan_on गर्मी है फैन चला
+__label__fan_on तेज़ हवा चाहिए
+__label__fan_on पंखा घुमा दो
+__label__fan_on फैन स्टार्ट करो
+__label__fan_on एक्टिवेट फैन
+__label__fan_on इनेबल फैन
+__label__fan_on पावर ऑन फैन
+__label__fan_on एयर कंडीशनर ऑन
+__label__fan_on वेंटिलेशन ऑन
+__label__fan_on ब्लोअर ऑन
+__label__fan_on एग्जॉस्ट ऑन
+__label__fan_on फैन स्पीड बढ़ाओ
+__label__fan_on फैन तेज़ करो
+__label__fan_on फैन फुल करो
+__label__fan_on फैन मैक्स करो
+__label__fan_on फैन हाई करो
+__label__fan_on फैन नंबर पांच पे करो
+__label__fan_on फैन नंबर चार पे करो
+__label__fan_on फैन नंबर तीन पे करो
+__label__fan_on फैन नंबर दो पे करो
+__label__fan_on फैन नंबर एक पे करो
+__label__fan_on फैन शुरू
+__label__fan_on पंखा शुरू
+__label__fan_on हवा शुरू
+__label__fan_on कूलर शुरू
+__label__fan_on एसी शुरू
+
+# ================= FAN OFF =================
+__label__fan_off फैन बंद
+__label__fan_off फैन स्विच ऑफ
+__label__fan_off स्टॉप द फैन
+__label__fan_off फैन नहीं चाहिए
+__label__fan_off पंखा बंद कर दो
+__label__fan_off फेन ऑफ करो
+__label__fan_off पेन ऑफ करो
+__label__fan_off वैन ऑफ करो
+__label__fan_off फन ऑफ करो
+__label__fan_off फैन रोक दो
+__label__fan_off टर्न ऑफ फैन
+__label__fan_off भाई फैन बंद कर
+__label__fan_off ठण्ड है फैन बंद करो
+__label__fan_off पंखा ऑफ
+__label__fan_off फैन कट करो
+__label__fan_off डिसेबल फैन
+__label__fan_off पावर ऑफ फैन
+__label__fan_off किल द फैन
+__label__fan_off स्टॉप एयर
+__label__fan_off कूलर ऑफ
+__label__fan_off एसी ऑफ
+__label__fan_off एयर कंडीशनर ऑफ
+__label__fan_off वेंटिलेशन ऑफ
+__label__fan_off ब्लोअर ऑफ
+__label__fan_off एग्जॉस्ट ऑफ
+__label__fan_off फैन स्लो करो
+__label__fan_off फैन धीरे करो
+__label__fan_off फैन लो करो
+__label__fan_off फैन मिनिमम करो
+__label__fan_off फैन कम करो
+
+# ================= LIGHT ON =================
+__label__light_on लाइट ऑन
+__label__light_on लाइट चालू
+__label__light_on लाइट जलाओ
+__label__light_on लाइट स्टार्ट
+__label__light_on लाइट चलाओ
+__label__light_on लाइट लगाओ
+__label__light_on बत्ती ऑन
+__label__light_on बत्ती चालू
+__label__light_on बत्ती जलाओ
+__label__light_on बत्ती स्टार्ट
+__label__light_on बत्ती चलाओ
+__label__light_on बत्ती लगाओ
+__label__light_on बल्ब ऑन
+__label__light_on बल्ब चालू
+__label__light_on बल्ब जलाओ
+__label__light_on बल्ब स्टार्ट
+__label__light_on बल्ब चलाओ
+__label__light_on बल्ब लगाओ
+__label__light_on रोशनी ऑन
+__label__light_on रोशनी चालू
+__label__light_on रोशनी जलाओ
+__label__light_on रोशनी स्टार्ट
+__label__light_on रोशनी चलाओ
+__label__light_on रोशनी लगाओ
+__label__light_on ट्यूब लाइट ऑन
+__label__light_on ट्यूब लाइट चालू
+__label__light_on ट्यूब लाइट जलाओ
+__label__light_on ट्यूब लाइट स्टार्ट
+__label__light_on ट्यूब लाइट चलाओ
+__label__light_on ट्यूब लाइट लगाओ
+__label__light_on बिजली ऑन
+__label__light_on बिजली चालू
+__label__light_on बिजली जलाओ
+__label__light_on बिजली स्टार्ट
+__label__light_on बिजली चलाओ
+__label__light_on बिजली लगाओ
+
+# ================= LIGHT OFF =================
+__label__light_off लाइट ऑफ
+__label__light_off लाइट बंद
+__label__light_off लाइट बुझाओ
+__label__light_off लाइट रोको
+__label__light_off लाइट हटाओ
+__label__light_off बत्ती ऑफ
+__label__light_off बत्ती बंद
+__label__light_off बत्ती बुझाओ
+__label__light_off बत्ती रोको
+__label__light_off बत्ती हटाओ
+__label__light_off बल्ब ऑफ
+__label__light_off बल्ब बंद
+__label__light_off बल्ब बुझाओ
+__label__light_off बल्ब रोको
+__label__light_off बल्ब हटाओ
+__label__light_off रोशनी ऑफ
+__label__light_off रोशनी बंद
+__label__light_off रोशनी बुझाओ
+__label__light_off रोशनी रोको
+__label__light_off रोशनी हटाओ
+__label__light_off ट्यूब लाइट ऑफ
+__label__light_off ट्यूब लाइट बंद
+__label__light_off ट्यूब लाइट बुझाओ
+__label__light_off ट्यूब लाइट रोको
+__label__light_off ट्यूब लाइट हटाओ
+__label__light_off बिजली ऑफ
+__label__light_off बिजली बंद
+__label__light_off बिजली बुझाओ
+__label__light_off बिजली रोको
+__label__light_off बिजली हटाओ
+
+# ================= TIME =================
+__label__time टाइम बताओ
+__label__time टाइम क्या है
+__label__time टाइम है क्या
+__label__time टाइम बताइये
+__label__time टाइम बोलो
+__label__time समय बताओ
+__label__time समय क्या है
+__label__time समय है क्या
+__label__time समय बताइये
+__label__time समय बोलो
+__label__time वक़्त बताओ
+__label__time वक़्त क्या है
+__label__time वक़्त है क्या
+__label__time वक़्त बताइये
+__label__time वक़्त बोलो
+__label__time घड़ी बताओ
+__label__time घड़ी क्या है
+__label__time घड़ी है क्या
+__label__time घड़ी बताइये
+__label__time घड़ी बोलो
+__label__time बजे बताओ
+__label__time बजे क्या है
+__label__time बजे है क्या
+__label__time बजे बताइये
+__label__time बजे बोलो
+
+# ================= DATE =================
+__label__date डेट बताओ
+__label__date डेट क्या है
+__label__date डेट है क्या
+__label__date डेट बताइये
+__label__date डेट बोलो
+__label__date तारीख बताओ
+__label__date तारीख क्या है
+__label__date तारीख है क्या
+__label__date तारीख बताइये
+__label__date तारीख बोलो
+__label__date दिन बताओ
+__label__date दिन क्या है
+__label__date दिन है क्या
+__label__date दिन बताइये
+__label__date दिन बोलो
+__label__date आज बताओ
+__label__date आज क्या है
+__label__date आज है क्या
+__label__date आज बताइये
+__label__date आज बोलो
+__label__date कल बताओ
+__label__date कल क्या है
+__label__date कल है क्या
+__label__date कल बताइये
+__label__date कल बोलो
+__label__date परसों बताओ
+__label__date परसों क्या है
+__label__date परसों है क्या
+__label__date परसों बताइये
+__label__date परसों बोलो
+
+# ================= MATH =================
+__label__math_query जोड़ो
+__label__math_query प्लस
+__label__math_query माइनस
+__label__math_query घटाओ
+__label__math_query भाग
+__label__math_query डिवाइड
+__label__math_query गुणा
+__label__math_query कितना होता है
+__label__math_query कैलकुलेट करो
+__label__math_query हिसाब करो
+__label__math_query जोड़ के बताओ
+__label__math_query रिजल्ट क्या आएगा
+__label__math_query ऐड करो
+__label__math_query सबट्रैक्ट करो
+__label__math_query गुणा करो
+__label__math_query भाग करो
+__label__math_query सम बताओ
+__label__math_query अंतर बताओ
+__label__math_query प्रोडक्ट बताओ
+__label__math_query डिवीज़न बताओ
+__label__math_query हल
+__label__math_query योग
+__label__math_query गणना
+__label__math_query उत्तर
+__label__math_query कैलकुलेशन करना
+__label__math_query हिसाब लगाओ
+__label__math_query टोटल करो
+__label__math_query गिनती करो
+__label__math_query स्क्वायर रूट
+__label__math_query क्यूब रूट
+__label__math_query एवरेज
+__label__math_query मीडियन
+__label__math_query मोड
+
+# ================= GREET =================
+__label__greet नमस्ते
+__label__greet हेलो
+__label__greet हाय
+__label__greet सुमित
+__label__greet सुनो
+__label__greet गुड मॉर्निंग
+__label__greet गुड आफ्टरनून
+__label__greet गुड इवनिंग
+
+# ================= STOP =================
+__label__stop स्टॉप
+__label__stop रुक
+__label__stop बंद हो
+__label__stop अलविदा
+__label__stop एग्जिट
+__label__stop चुप रहो
+__label__stop शट अप
+__label__stop क्विट
+__label__stop टर्मिनेट
+__label__stop बाय
+__label__stop सो जाओ
+__label__stop स्लीप नाउ
+__label__stop पॉज
+__label__stop ब्रेक
+__label__stop हॉल्ट
+__label__stop एन्ड
+__label__stop फिनिश
+__label__stop क्लोज
+__label__stop शटडाउन
+__label__stop पावर ऑफ
+__label__stop टर्न ऑफ
+__label__stop स्विच ऑफ
+__label__stop लॉग ऑफ
+__label__stop साइन ऑफ
+__label__stop गो अवे
+__label__stop लीव मी अलोन
+__label__stop डोंट डिस्टर्ब
+__label__stop साइलेंट
+__label__stop म्यूट
+__label__stop बस करो
+__label__stop ख़त्म
+__label__stop टाटा
+__label__stop गुड नाईट
+
+# ================= ASK NAME =================
+__label__ask_name मेरा नाम क्या है
+__label__ask_name मेरा नाम बताओ
+__label__ask_name मेरा नाम बताइये
+__label__ask_name मेरा नाम बोलो
+__label__ask_name मैं कौन हूँ
+__label__ask_name नाम बताओ मेरा
+__label__ask_name मेरा परिचय
+__label__ask_name वॉट इज़ माय नेम
+
+# ================= ASK IDENTITY =================
+__label__ask_identity तुम कौन हो
+__label__ask_identity तुम्हारा नाम क्या है
+__label__ask_identity तुम्हें किसने बनाया
+__label__ask_identity अपना परिचय दो
+__label__ask_identity तुम क्या हो
+__label__ask_identity हू आर यू
+__label__ask_identity योर आइडेंटिटी
+
+# ================= WEATHER =================
+__label__weather मौसम कैसा है
+__label__weather आज का मौसम बताओ
+__label__weather क्या आज बारिश होगी
+__label__weather तापमान कितना है
+__label__weather वेदर रिपोर्ट दो
+__label__weather बाहर कितनी ठण्ड है
+__label__weather बाहर कितनी गर्मी है
+# --- NUMBERS (1-10) ---
+__label__math_query एक
+__label__math_query दो
+__label__math_query तीन
+__label__math_query चार
+__label__math_query पांच
+__label__math_query छह
+__label__math_query सात
+__label__math_query आठ
+__label__math_query नौ
+__label__math_query दस
+__label__math_query one
+__label__math_query two
+__label__math_query three
+__label__math_query four
+__label__math_query five
+__label__math_query six
+__label__math_query seven
+__label__math_query eight
+__label__math_query nine
+__label__math_query ten
+
+# --- NUMBERS (11-20) ---
+__label__math_query ग्यारह
+__label__math_query बारह
+__label__math_query तेरह
+__label__math_query चौदह
+__label__math_query पंद्रह
+__label__math_query सोलह
+__label__math_query सत्रह
+__label__math_query अठारह
+__label__math_query उन्नीस
+__label__math_query बीस
+__label__math_query eleven
+__label__math_query twelve
+__label__math_query thirteen
+__label__math_query fourteen
+__label__math_query fifteen
+__label__math_query sixteen
+__label__math_query seventeen
+__label__math_query eighteen
+__label__math_query nineteen
+__label__math_query twenty
+
+# --- NUMBERS (21-30) ---
+__label__math_query इक्कीस
+__label__math_query बाईस
+__label__math_query तेइस
+__label__math_query चौबीस
+__label__math_query पच्चीस
+__label__math_query छब्बीस
+__label__math_query सत्ताइस
+__label__math_query अट्ठाइस
+__label__math_query उनतीस
+__label__math_query तीस
+__label__math_query twenty one
+__label__math_query twenty two
+__label__math_query twenty three
+__label__math_query twenty four
+__label__math_query twenty five
+__label__math_query twenty six
+__label__math_query twenty seven
+__label__math_query twenty eight
+__label__math_query twenty nine
+__label__math_query thirty
+
+# --- NUMBERS (31-40) ---
+__label__math_query इकतीस
+__label__math_query बत्तीस
+__label__math_query तैंतीस
+__label__math_query चौंतीस
+__label__math_query पैंतीस
+__label__math_query छत्तीस
+__label__math_query सैंतीस
+__label__math_query अड़तीस
+__label__math_query उनतालीस
+__label__math_query चालीस
+__label__math_query thirty one
+__label__math_query thirty two
+__label__math_query thirty three
+__label__math_query thirty four
+__label__math_query thirty five
+__label__math_query thirty six
+__label__math_query thirty seven
+__label__math_query thirty eight
+__label__math_query thirty nine
+__label__math_query forty
+
+# --- NUMBERS (41-50) ---
+__label__math_query इकतालीस
+__label__math_query बयालीस
+__label__math_query तैंतालीस
+__label__math_query चवालीस
+__label__math_query पैंतालीस
+__label__math_query छियालीस
+__label__math_query सैंतालीस
+__label__math_query अड़तालीस
+__label__math_query उनचास
+__label__math_query पचास
+__label__math_query forty one
+__label__math_query forty two
+__label__math_query forty three
+__label__math_query forty four
+__label__math_query forty five
+__label__math_query forty six
+__label__math_query forty seven
+__label__math_query forty eight
+__label__math_query forty nine
+__label__math_query fifty
+
+# --- NUMBERS (51-60) ---
+__label__math_query इक्यावन
+__label__math_query बावन
+__label__math_query तिरेपन
+__label__math_query चौवन
+__label__math_query पचपन
+__label__math_query छप्पन
+__label__math_query सत्तावन
+__label__math_query अट्ठावन
+__label__math_query उनसठ
+__label__math_query साठ
+__label__math_query fifty one
+__label__math_query fifty two
+__label__math_query fifty three
+__label__math_query fifty four
+__label__math_query fifty five
+__label__math_query fifty six
+__label__math_query fifty seven
+__label__math_query fifty eight
+__label__math_query fifty nine
+__label__math_query sixty
+
+# --- NUMBERS (61-70) ---
+__label__math_query इकसठ
+__label__math_query बासठ
+__label__math_query तिरसठ
+__label__math_query चौंसठ
+__label__math_query पैंसठ
+__label__math_query सियासठ
+__label__math_query सड़सठ
+__label__math_query अड़सठ
+__label__math_query उनहत्तर
+__label__math_query सत्तर
+__label__math_query sixty one
+__label__math_query sixty two
+__label__math_query sixty three
+__label__math_query sixty four
+__label__math_query sixty five
+__label__math_query sixty six
+__label__math_query sixty seven
+__label__math_query sixty eight
+__label__math_query sixty nine
+__label__math_query seventy
+
+# --- NUMBERS (71-80) ---
+__label__math_query इकहर
+__label__math_query बहत्तर
+__label__math_query तिहत्तर
+__label__math_query चौहत्तर
+__label__math_query पचहत्तर
+__label__math_query छिहत्तर
+__label__math_query सतहत्तर
+__label__math_query अठहत्तर
+__label__math_query उन्यासी
+__label__math_query अस्सी
+__label__math_query seventy one
+__label__math_query seventy two
+__label__math_query seventy three
+__label__math_query seventy four
+__label__math_query seventy five
+__label__math_query seventy six
+__label__math_query seventy seven
+__label__math_query seventy eight
+__label__math_query seventy nine
+__label__math_query eighty
+
+# --- NUMBERS (81-90) ---
+__label__math_query इक्यासी
+__label__math_query बयासी
+__label__math_query तिरासी
+__label__math_query चौरासी
+__label__math_query पचासी
+__label__math_query छियासी
+__label__math_query सत्तासी
+__label__math_query अट्ठासी
+__label__math_query नवासी
+__label__math_query नब्बे
+__label__math_query eighty one
+__label__math_query eighty two
+__label__math_query eighty three
+__label__math_query eighty four
+__label__math_query eighty five
+__label__math_query eighty six
+__label__math_query eighty seven
+__label__math_query eighty eight
+__label__math_query eighty nine
+__label__math_query ninety
+
+# --- NUMBERS (91-100) ---
+__label__math_query इक्यानवे
+__label__math_query बानवे
+__label__math_query तिरानवे
+__label__math_query चौरानवे
+__label__math_query पचानवे
+__label__math_query छियानवे
+__label__math_query सत्तानवे
+__label__math_query अट्ठानवे
+__label__math_query निन्यानवे
+__label__math_query सौ
+__label__math_query ninety one
+__label__math_query ninety two
+__label__math_query ninety three
+__label__math_query ninety four
+__label__math_query ninety five
+__label__math_query ninety six
+__label__math_query ninety seven
+__label__math_query ninety eight
+__label__math_query ninety nine
+__label__math_query one hundred
+__label__math_query hundred
